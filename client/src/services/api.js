@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const host = 'http://localhost:4000/api';
+const host = 'http://https://vote-serve.herokuapp.com//api';
 
 export const setToken = token => {
   if (token) {
